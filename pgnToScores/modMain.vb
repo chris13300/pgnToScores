@@ -42,11 +42,7 @@
                 joueurNoir = Trim(LCase(joueurNoir))
             ElseIf InStr(ligne, "[Result ", CompareMethod.Text) > 0 Then
                 If Not question Then
-                    If InStr(joueurBlanc, "experience", CompareMethod.Text) > 0 Then
-                        joueurReference = InputBox("Enter the name of the reference player :", , joueurBlanc)
-                    Else
-                        joueurReference = InputBox("Enter the name of the reference player :", , joueurNoir)
-                    End If
+                    joueurReference = InputBox("Enter the name of the reference player :", , joueurBlanc)
                     If joueurReference = "" Then
                         lecture.Close()
                         If My.Computer.FileSystem.FileExists(fichierBAK) Then
