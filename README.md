@@ -8,16 +8,15 @@ command : pgnToScores.exe path_to_your_pgn_file.pgn<p>
 ![gauntlet](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/gauntlet.jpg)<br>
 ![pgn](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/pgn.jpg)<p>
 
-So here, the reference engine is "eman experience".<p>
-
-2°) if we run the previous command, we get these scores (csv-style) :<br>
+2°) if we run the above command with "eman experience" as reference player and "10" as score group size, we get something like this :<br>
 ![scores](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/scores.jpg)<p>
 
-3°) copy-paste them into a spreadsheet (choose semicolon as separator)<p>
+3°) copy-paste the content of the [scores.txt](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/modMain.vb#L105) file into your spreadsheet<p>
 
-4°) create your chart, example :
+4°) create your chart :
 ![curves](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.jpg)<p>
   
 # tips
 - i advise you to accumulate about 10 scores in order to smooth the curves.<br>
 - you will find a spreadsheet/chart example [here](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.ods).<br>
+- the scores are separated by a [semicolon](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/modMain.vb#L91) in order to import them like a CSV file
