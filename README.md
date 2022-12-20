@@ -4,12 +4,18 @@ Tool to convert scores into curves<p>
 command : pgnToScores.exe path_to_your_pgn_file.pgn<p>
 
 # most common scenario
-1°) from a PGN file like this :<br>
+1°) after a gauntlet tourney, we get something like this :<br>
+![gauntlet](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/gauntlet.jpg)<br>
 ![pgn](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/pgn.jpg)<p>
 
-2°) we get something like this :<br>
+So here, the reference engine is "eman experience".<br>
+I advise you to accumulate about 10 scores in order to smooth the curves.<p>
+
+2°) if we run the previous command, we get these scores (csv-style) :<br>
 ![scores](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/scores.jpg)<p>
 
-3°) then we can get curves like these ones :<br>
+3°) copy-paste them into a spreadsheet (choose semicolon as separator)<p>
+
+4°) create your chart, example :
 ![curves](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.jpg)<p>
   
