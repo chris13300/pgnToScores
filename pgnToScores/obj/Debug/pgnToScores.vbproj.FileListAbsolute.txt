@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\bin\Debug\pgnToScores.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\bin\Debug\pgnToScores.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\bin\Debug\pgnToScores.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\bin\Debug\pgnToScores.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\obj\Debug\pgnToScores.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\obj\Debug\pgnToScores.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\obj\Debug\pgnToScores.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\obj\Debug\pgnToScores.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToScores\pgnToScores\obj\Debug\pgnToScores.pdb
