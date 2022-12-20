@@ -20,4 +20,4 @@ So here, the reference engine is "eman experience".<p>
   
 # tips
 - i advise you to accumulate about 10 scores in order to smooth the curves.<br>
-- there is a spreadsheet/chart example [here](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.ods)
+- you will find a spreadsheet/chart example [here](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.ods).<br>
