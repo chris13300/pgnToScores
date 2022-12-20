@@ -1,5 +1,5 @@
 # pgnToScores
-Tool to convert scores into curves<p>
+Tool to convert scores into curves.<p>
 
 command : pgnToScores.exe path_to_your_pgn_file.pgn<p>
 
