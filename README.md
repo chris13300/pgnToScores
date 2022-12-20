@@ -8,8 +8,7 @@ command : pgnToScores.exe path_to_your_pgn_file.pgn<p>
 ![gauntlet](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/gauntlet.jpg)<br>
 ![pgn](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/pgn.jpg)<p>
 
-So here, the reference engine is "eman experience".<br>
-I advise you to accumulate about 10 scores in order to smooth the curves.<p>
+So here, the reference engine is "eman experience".<p>
 
 2°) if we run the previous command, we get these scores (csv-style) :<br>
 ![scores](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/scores.jpg)<p>
@@ -19,3 +18,6 @@ I advise you to accumulate about 10 scores in order to smooth the curves.<p>
 4°) create your chart, example :
 ![curves](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.jpg)<p>
   
+# tips
+- i advise you to accumulate about 10 scores in order to smooth the curves.<br>
+- there is a spreadsheet/chart example [here](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.ods)
