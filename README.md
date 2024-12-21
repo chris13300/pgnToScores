@@ -15,6 +15,8 @@ command : pgnToScores.exe path_to_your_pgn_file.pgn<p>
 
 4°) create your chart :
 ![curves](https://github.com/chris13300/pgnToScores/blob/main/pgnToScores/bin/Debug/curves.jpg)<p>
+
+I made a video sample [here](https://youtu.be/frzpC4yxg8o).<p>
   
 # tips
 - i advise you to accumulate about 10 scores in order to smooth the curves.<br>
